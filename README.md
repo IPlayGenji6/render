@@ -1,2 +1,2 @@
 # render
-微型渲染器学习
+学习项目地址：[tinyrenderer](https://github.com/ssloy/tinyrenderer)
